@@ -21,7 +21,7 @@ export default function Navbar() {
           JOSEPH SWAP
         </Text>
         <ConnectWallet 
-        style={{ padding: "10px 0px", fontSize: "18px" }}
+        style={{ padding: "10px 15px", fontSize: "18px" }}
         theme="dark" />
       </Flex>
 
