@@ -17,8 +17,8 @@ export default function Navbar() {
         
         {/* <img src="/public/token.png" alt="Logo" style={{ width: "50px", height: "auto", marginRight: "10px" }} /> */}
         
-        <Text fontWeight="bold" fontSize="4xl" color="#8BD7C3" alignSelf="center">
-          JOSEPH DEX
+        <Text fontWeight="bold" fontSize="2xl" color="#8BD7C3" alignSelf="center">
+          JOSEPH SWAP
         </Text>
         <ConnectWallet 
         style={{ padding: "10px 0px", fontSize: "18px" }}

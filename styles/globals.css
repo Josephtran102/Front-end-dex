@@ -108,3 +108,15 @@ a {
 }
 
 
+body {
+  background-image: url('/background-3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@media (max-width: 768px) {
+  body {
+    background-size: auto;
+  }
+}
