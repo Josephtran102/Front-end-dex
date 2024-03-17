@@ -1,5 +1,7 @@
 # DEX app
 
+[Demo link:](https://joseph-swap.vercel.app/)
+
 Create your own DEX for your ERC-20 token. Find the related contracts in the [dex-contracts repository](https://github.com/thirdweb-example/dex-contracts).
 
 ## Installation
